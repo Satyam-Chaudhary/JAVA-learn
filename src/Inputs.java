@@ -10,8 +10,8 @@ public class Inputs {
 //        String name = input.nextLine();
  //       System.out.println(name);
 
-//        float marks = input.nextFloat();
-//        System.out.println(marks);
+        float marks = input.nextFloat();
+        System.out.println(marks);
 
 
     }

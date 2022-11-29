@@ -1,5 +1,5 @@
 public class primitives {
-    //any datatype which can't be brpken furtther is primitive eg- int,character
+    //any datatype which can't be brpken further is primitive eg- int,character
     public static void main(String[] args) {
         int rollno = 69;
         char startname = 's';
